@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea/*
+Hmb2g-alternateJVM.iml
+
+# mvn build package
+target/*
